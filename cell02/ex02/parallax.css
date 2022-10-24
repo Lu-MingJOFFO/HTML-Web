@@ -1,0 +1,41 @@
+body, html
+{
+	height: 100%;
+	margin:0px;
+}
+.image1
+{
+	background: url("https://4d8ff2bc0f02b2acc429-3995c1b535a59ed5ef07494608250dd1.ssl.cf1.rackcdn.com/OW-Gallery-hero-1-TlujvLJ-.jpg");
+	height:100%;
+	width: 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 100px;
+}	
+ .middle
+{
+	background-color:black;
+	height: 600px;
+	color:white;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 600px;
+	font-size: 100px;
+} 
+.image2
+{
+	background: url("https://www.royalcaribbean.com/blog/wp-content/uploads/2015/03/Barbados.jpg");
+	height:100%;
+	width: 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 100px;
+}
